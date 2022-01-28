@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("九九乘法表");
+            Console.WriteLine("九九乘法表 Multiplication Table");
             string text = "";
 
             for (int i = 1; i <= 9; i++)
